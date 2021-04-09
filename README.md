@@ -1,5 +1,7 @@
 # BigInt: Arbitrary precision integers in JavaScript
 
+![Stage 4](https://badges.aleen42.com/src/tc39_5.svg)
+
 Daniel Ehrenberg, Igalia. Stage 4
 
 This proposal is complete and already merged into ECMA262 specification. See the specification text [here](https://tc39.es/ecma262/).
